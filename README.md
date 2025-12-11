@@ -6,4 +6,4 @@ The Xbox 360's Real Time Clock (RTC) uses the same code as the original Xbox. Th
 
 <img src="https://consolemods.org/wiki/images/e/e2/TimeFixer_Screenshot.png" width="49%" height="auto">
 
-Big thanks to Visual Studio for helping figure out the RTC format encoding.
+Big thanks to [Visual Studio](https://github.com/GoobyCorp) for helping figure out the RTC format encoding.
