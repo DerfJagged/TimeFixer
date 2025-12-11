@@ -5,3 +5,5 @@ TimeFixer is an application that allows you to set the date and time of an Xbox 
 The Xbox 360's Real Time Clock (RTC) uses the same code as the original Xbox. The SMC maintains a 40-bit big-endian count of milliseconds since the Xbox epoch (`11-15-2001 00:00:00 UTC`), represented in hex. Once the value reaches `FFFFFFFFFF` (`09/17/2036 19:53:47 UTC`), it wraps back around to the epoch and starts the count over.
 
 <img src="https://consolemods.org/wiki/images/e/e2/TimeFixer_Screenshot.png" width="49%" height="auto">
+
+Big thanks to Visual Studio for helping figure out the RTC format encoding.
